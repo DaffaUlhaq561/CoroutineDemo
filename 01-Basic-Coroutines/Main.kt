@@ -1,3 +1,5 @@
+// https://pl.kotl.in/DJKvIKTXQ
+
 import kotlinx.coroutines.*
 
 fun main() = runBlocking {
